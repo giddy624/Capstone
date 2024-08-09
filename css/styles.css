@@ -490,6 +490,9 @@ img {
 .skills-container .skills-japanese {
   width: 40%;
 }
+.skills-container .skills-cloud {
+  width: 50%;
+}
 
 /* Experience section */
 .experience-tabs {
