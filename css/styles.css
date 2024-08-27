@@ -443,28 +443,28 @@ img {
   background-color: var(--first-color);
 }
 .skills-container .skills-polymer {
-  width: 100%;
+  width: 50%;
 }
 .skills-container .skills-experimental {
-  width: 100%;
+  width: 75%;
 }
 .skills-container .skills-sustainable {
-  width: 100%;
+  width: 50%;
 }
 .skills-container .skills-matlab {
-  width: 90%;
+  width: 50%;
 }
 .skills-container .skills-latex {
   width: 90%;
 }
 .skills-container .skills-adobe {
-  width: 90%;
+  width: 75%;
 }
 .skills-container .skills-imagej {
-  width: 90%;
+  width: 75%;
 }
 .skills-container .skills-office {
-  width: 100%;
+  width: 50%;
 }
 .skills-container .skills-coordinating {
   width: 100%;
